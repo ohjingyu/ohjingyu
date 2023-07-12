@@ -1,6 +1,7 @@
 # 💫 About Me:
 코딩 배우는중입니다.
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seolhwa0819) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/seolhwadaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@user-ou9rv1lg2y) [![Notion]([https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white](https://logowik.com/content/uploads/images/notion1411.jpg))]([https://twitch.tv/seolhwadaa](https://luminous-radio-2c8.notion.site/a43822d769e246ddaddee380c04022c7?v=a0e7a2318be54355ae504120a33607fb))
