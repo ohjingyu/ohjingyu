@@ -2,6 +2,8 @@
 ## 💫 About Me:
 # 성일정보고등학교 소프트웨어개발과 오진규입니다.
 
+## My Backjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seolhwa)](https://solved.ac/seolhwa/)
 
 ## 🌐 Socials:
 <a href="https://luminous-radio-2c8.notion.site/a43822d769e246ddaddee380c04022c7?v=a0e7a2318be54355ae504120a33607fb" target ="_blank"><img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=000000"/><a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/seolhwa_jg/) 
