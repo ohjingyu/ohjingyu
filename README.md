@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=나만의깃허브&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=나만의깃허브&fontAlign=30)
 # 💫 About Me:
 성일정보고등학교 소프트웨어개발과 오진규입니다.
 
