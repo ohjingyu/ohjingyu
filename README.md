@@ -3,7 +3,7 @@
 # 성일정보고등학교 소프트웨어개발과 오진규입니다.
 
 ## 🌐 Socials:
-<a href="https://luminous-radio-2c8.notion.site/a43822d769e246ddaddee380c04022c7?v=a0e7a2318be54355ae504120a33607fb" target ="_blank"><img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=000000"/><a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/seolhwa_jg/) 
+<a href="https://www.notion.so/seolhwa0819/f3a1070ecd734df282f11e44b77a369b" target ="_blank"><img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=000000"/><a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/seolhwa_jg/) 
 
 ## 💻 Studing Code
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
