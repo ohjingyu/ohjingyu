@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=나만의깃허브&fontAlign=70&fontColor=FFFFFF&fontSize=65&descSize=30)
 ## 💫 About Me:
-# 성일정보고등학교 소프트웨어개발과 오진규입니다.
+#
 
 ## 🌐 Socials:
 <a href="https://www.notion.so/seolhwa0819/f3a1070ecd734df282f11e44b77a369b" target ="_blank"><img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=000000"/><a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/seolhwa_jg/) 
