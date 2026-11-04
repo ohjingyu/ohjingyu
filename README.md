@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.notion.so/seolhwa0819/f3a1070ecd734df282f11e44b77a369b"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://www.instagram.com/seolhwa_jg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
