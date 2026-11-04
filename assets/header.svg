@@ -9,7 +9,7 @@
     <text x="30" y="72" fill="#7ee787">$ <tspan fill="#c9d1d9">./whoami --verbose</tspan></text>
     <text x="30" y="104" fill="#58a6ff">[BOOT]  <tspan fill="#c9d1d9">Hi, I'm Jingyu Oh</tspan></text>
     <text x="30" y="134" fill="#58a6ff">[INFO]  <tspan fill="#c9d1d9">Embedded / Firmware Developer</tspan></text>
-    <text x="30" y="164" fill="#58a6ff">[INFO]  <tspan fill="#c9d1d9">C · C++ · ARM Cortex-M · RTOS</tspan></text>
+    <text x="30" y="164" fill="#58a6ff">[INFO]  <tspan fill="#c9d1d9">C · C++ · Embedded · ESP32 · RTOS</tspan></text>
     <text x="30" y="194" fill="#7ee787">$ <tspan fill="#c9d1d9">_</tspan><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
   </g>
   <g stroke="#2ea043" stroke-width="2" fill="none" opacity=".55">

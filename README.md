@@ -22,8 +22,8 @@ struct developer ohjingyu = {
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded-5C2D91?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/FreeRTOS-2E8B57?style=for-the-badge"/>
 </p>
 <p>
@@ -43,15 +43,8 @@ struct developer ohjingyu = {
 | [**locker_control**](https://github.com/ohjingyu/locker_control) | 사물함 제어 | `C` |
 | [**tobe_device_finder**](https://github.com/ohjingyu/tobe_device_finder) | 장치 검색 도구 | — |
 
-### `> stats`
+### `> commits`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ohjingyu&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjingyu&theme=github_dark&hide_border=true&layout=compact"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ohjingyu&theme=github-dark-blue&hide_border=true"/>
-</p>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ohjingyu&bg_color=0d1117&color=7ee787&line=2ea043&point=58a6ff&area=true&hide_border=true"/>
 </p>
