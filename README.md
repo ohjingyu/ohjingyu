@@ -33,6 +33,16 @@ struct developer ohjingyu = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+### `> projects`
+
+| Project | Description | Stack |
+|---|---|---|
+| **미니입실기** | 소형 출입 인증 단말기 펌웨어 | `C` `MCU` |
+| **자사입실기** | 자사 출입 인증 단말기 펌웨어 | `C` `MCU` |
+| **QR_PASS** | QR 코드 기반 출입 인증 시스템 | `C` `QR` |
+| [**locker_control**](https://github.com/ohjingyu/locker_control) | 사물함 제어 | `C` |
+| [**tobe_device_finder**](https://github.com/ohjingyu/tobe_device_finder) | 장치 검색 도구 | — |
+
 ### `> stats`
 
 <p align="center">
