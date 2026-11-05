@@ -40,7 +40,14 @@ struct developer ohjingyu = {
 ### `> commits`
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ohjingyu&bg_color=0d1117&color=7ee787&line=2ea043&point=58a6ff&area=true&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohjingyu/ohjingyu/output/snake-dark.svg"/>
+    <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/ohjingyu/ohjingyu/output/snake-light.svg"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ohjingyu&custom_title=%24%20git%20log%20--graph&bg_color=0d1117&color=c9d1d9&title_color=7ee787&line=2ea043&point=7ee787&area=true&area_color=2ea043&radius=8&height=280&hide_border=true"/>
 </p>
 
 <p align="center">
