@@ -39,7 +39,6 @@ struct developer ohjingyu = {
 
 | Project | Description | Stack |
 |---|---|---|
-| **QR_PASS** | QR 코드 기반 출입 인증 시스템 | `C` `QR` |
 | [**locker_control**](https://github.com/ohjingyu/locker_control) | 사물함 제어 | `Python` |
 | [**tobe_device_finder**](https://github.com/ohjingyu/tobe_device_finder) | 장치 검색 도구 | `C` |
 
